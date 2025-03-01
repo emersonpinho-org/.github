@@ -5,6 +5,11 @@
 
 Somos uma comunidade de desenvolvedores comprometidos com a inovação, aprendizado contínuo e criação de soluções tecnológicas impactantes. Nosso objetivo é unir talentos para desenvolver projetos open-source e compartilhar conhecimento de forma acessível.
 
+## ⚠️📜❗ Documentação obrigatoriamente em inglês 🇺🇸
+
+Para garantir acessibilidade e alcance global, **toda documentação de projetos na organização deverá ser escrita em inglês. Isso possibilita a participação de desenvolvedores de diversas partes do mundo** e fortalece nossa comunidade.
+
+
 ## 💡 Nossa Missão
 
 Capacitar desenvolvedores e criadores a transformarem ideias em realidade, promovendo colaboração, boas práticas e tecnologia de ponta.
