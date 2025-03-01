@@ -1,54 +1,51 @@
+# ☕ Welcome to the Dev Lab Organization!!
+
+We are a community of developers committed to innovation, continuous learning, and creating impactful technological solutions. Our goal is to bring together talented individuals to develop open-source projects and share knowledge in an accessible way.
+
+# ⚠️📜❗ Documentation must be in English 🇺🇸
+
+To ensure accessibility and global reach, all project documentation within the organization must be written in English. This allows developers from different parts of the world to participate and strengthens our community.
+
+## 💡 Our Mission
+
+Empower developers and creators to turn ideas into reality by promoting collaboration, best practices, and cutting-edge technology.
+
+## 🌍 What do we do?
+
+🔹 Build innovative projects to solve real-world problems.
+
+🔹 Explore new technologies and market trends.
+
+🔹 Encourage collective learning and knowledge sharing.
+
+🔹 Create a collaborative environment for programmers of all levels.
+
+## 🚀 Our Goals
+
+✅ Develop efficient and well-documented solutions.
+
+✅ Foster an ecosystem of learning and experience exchange.
+
+✅ Create high-value open-source repositories for the community.
+
+✅ Offer opportunities for developers to contribute and grow.
+
+## 🌱 We're just getting started!
+
+We don’t have public projects yet, but we are structuring amazing initiatives. If you want to grow professionally and be part of something great, join us from the beginning!
+
+## 🤝 How can you participate?
+
+✔️ Follow our organization to stay updated on releases.
+
+✔️ Join discussions and share insights.
+
+✔️ Keep an eye on our first projects and contribute with code or feedback.
+
+✔️ Help build a strong and engaged community!
+
+
+📢 Join us and be part of this journey of growth and innovation! 🚀
+
+
 ---
-
-
-## ☕ Bem-vindo à org Laboratório dev!!
-
-Somos uma comunidade de desenvolvedores comprometidos com a inovação, aprendizado contínuo e criação de soluções tecnológicas impactantes. Nosso objetivo é unir talentos para desenvolver projetos open-source e compartilhar conhecimento de forma acessível.
-
-## ⚠️📜❗ Documentação obrigatoriamente em inglês 🇺🇸
-
-Para garantir acessibilidade e alcance global, **toda documentação de projetos na organização deverá ser escrita em inglês. Isso possibilita a participação de desenvolvedores de diversas partes do mundo** e fortalece nossa comunidade.
-
-
-## 💡 Nossa Missão
-
-Capacitar desenvolvedores e criadores a transformarem ideias em realidade, promovendo colaboração, boas práticas e tecnologia de ponta.
-
-## 🌍 O que fazemos?
-
-🔹 Construímos projetos inovadores para resolver problemas reais.
-
-🔹 Exploramos novas tecnologias e tendências do mercado.
-
-🔹 Incentivamos o aprendizado coletivo e o compartilhamento de conhecimento.
-
-🔹 Criamos um ambiente colaborativo para programadores de todos os níveis.
-
-## 🚀 Nossos Objetivos
-
-✅ Desenvolver soluções eficientes e bem documentadas.
-
-✅ Fomentar um ecossistema de aprendizagem e troca de experiências.
-
-✅ Criar repositórios open-source de alto valor para a comunidade.
-
-✅ Oferecer oportunidades para que desenvolvedores contribuam e evoluam.
-
-## 🌱 Estamos apenas começando!
-
-Ainda não temos projetos públicos, mas estamos estruturando iniciativas incríveis. Se você deseja crescer profissionalmente e fazer parte de algo grandioso, junte-se a nós desde o início!
-
-## 🤝 Como você pode participar?
-
-✔️ Siga nossa organização para acompanhar os lançamentos.
-
-✔️ Participe das discussões e compartilhe insights.
-
-✔️ Fique atento aos primeiros projetos e colabore com código ou feedback.
-
-✔️ Ajude a construir uma comunidade forte e engajada!
-
----
-
-
-**📢 Junte-se a nós e faça parte dessa jornada de crescimento e inovação! 🚀**
