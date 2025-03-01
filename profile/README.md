@@ -2,7 +2,7 @@
 
 We are a community of developers committed to innovation, continuous learning, and creating impactful technological solutions. Our goal is to bring together talented individuals to develop open-source projects and share knowledge in an accessible way.
 
-# ⚠️📜❗ Documentation must be in English 🇺🇸
+# ⚠️❗ Documentation must be in English 🇺🇸
 
 To ensure accessibility and global reach, all project documentation within the organization must be written in English. This allows developers from different parts of the world to participate and strengthens our community.
 
