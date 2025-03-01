@@ -1,7 +1,7 @@
 ---
 
 
-## 🚀 Bem-vindo à org Laboratório dev!!
+## ☕ Bem-vindo à org Laboratório dev!!
 
 Somos uma comunidade de desenvolvedores comprometidos com a inovação, aprendizado contínuo e criação de soluções tecnológicas impactantes. Nosso objetivo é unir talentos para desenvolver projetos open-source e compartilhar conhecimento de forma acessível.
 
